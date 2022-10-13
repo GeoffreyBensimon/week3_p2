@@ -1,0 +1,1 @@
+Ceci est un travail à rendre portant sur le scraping. Il s'agit egalement d'un outil interessant pour finir rapidement en HP.
